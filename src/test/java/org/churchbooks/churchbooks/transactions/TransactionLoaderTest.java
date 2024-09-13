@@ -2,6 +2,7 @@ package org.churchbooks.churchbooks.transactions;
 
 import com.webcohesion.ofx4j.domain.data.common.Transaction;
 import com.webcohesion.ofx4j.io.OFXParseException;
+import org.churchbooks.churchbooks.transactions.services.TransactionLoader;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
