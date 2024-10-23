@@ -1,4 +1,4 @@
-package org.churchbooks.churchbooks.transactions;
+package org.churchbooks.churchbooks.transactions.util;
 
 import com.webcohesion.ofx4j.domain.data.common.Transaction;
 import com.webcohesion.ofx4j.io.OFXParseException;

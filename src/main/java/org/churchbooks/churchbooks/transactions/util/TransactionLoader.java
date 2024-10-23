@@ -1,4 +1,4 @@
-package org.churchbooks.churchbooks.transactions;
+package org.churchbooks.churchbooks.transactions.util;
 
 import com.webcohesion.ofx4j.domain.data.MessageSetType;
 import com.webcohesion.ofx4j.domain.data.ResponseEnvelope;
